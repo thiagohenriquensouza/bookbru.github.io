@@ -106,7 +106,7 @@ body{
        width: 370px;
     }
     #rodape{
-        width: 312px;
+        width: 370px;
     }
 
     #icone-3{
@@ -134,25 +134,29 @@ body{
     #linha-2{
         flex-direction: column;
         flex-wrap: wrap;
-        margin: 10px, 0px, 10px, 0px;
+        padding: 10px;
+        
     }
 
     #linha-3{
         flex-direction: column;
         flex-wrap: wrap;
-        margin: 10px, 0px, 10px, 0px;
+         padding: 10px;
+        
     }
 
     #linha-4{
         flex-direction: column;
         flex-wrap: wrap;
-        margin: 10px, 0px, 10px, 0px;
+         padding: 10px;
+       
     }
 
     #linha-5{
         flex-direction: column;
         flex-wrap: wrap;
-        margin: 10px, 0px, 10px, 0px;
+         padding: 10px;
+       
     }
     
 }
